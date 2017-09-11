@@ -1,7 +1,7 @@
- .classpath
- .gradle/
- .project
- .settings/
- bin/
- build/
- gradle/
+.classpath
+.gradle/
+.project
+.settings/
+bin/
+build/
+gradle/
